@@ -11,9 +11,8 @@ Data Science and AI graduate from Cairo University, based in Giza, Egypt. I work
 
 ## Projects
 
-- **[EV Charging Optimization and Management System](link)**: my graduation project, built for the Egyptian market
+- **[EV Charging Optimization and Management System]([link](https://github.com/bodymostafa1/graduation_project))**: my graduation project, built for the Egyptian market
 - **[Bitcoin Price Prediction](link)**: CNN-based model for financial time series
-- **[Project name](link)**: one line on what it does
 
 ## Background
 
