@@ -13,6 +13,7 @@ Data Science and AI graduate from Cairo University, faculty of computers and art
 
 - **[EV Charging Optimization and Management System](https://github.com/bodymostafa1/graduation_project)**: my graduation project, built for the Egyptian market
 - **[Bitcoin Price Prediction](link)**: CNN-based model for financial time series
+- **[Customer Behavior Analysis](https://github.com/bodymostafa1/customer-behavior-analysis)**: end-to-end retail analysis with Python, SQL, and Power BI on 3,900 purchases
 
 ## Background
 
