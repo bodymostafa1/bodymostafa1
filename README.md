@@ -1,6 +1,6 @@
 # Hi, I'm Abdelrahman 👋
 
-Data Science and AI graduate from Cairo University, faculty of computers and artificial intelligence, based in Cairo, Egypt. I work on machine learning and data analysis, and I like building the apps around the models too.
+Operation research and decision support Graduate from Cairo University, faculty of computers and artificial intelligence, based in Cairo, Egypt. I work on machine learning and data analysis, and I like building the apps around the models too.
 
 ## What I work with
 
